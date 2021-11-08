@@ -1,7 +1,13 @@
-# h1 heading
-## h2 heading
-### h3 heading
-#### h4 heading
-##### h5 heading
-###### h6 heading
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to my website</title>
+</head>
+<body> 
+    <h1>WELCOME</h1>
+    <p>This is my personal website, if you are reading this you have entered my website.</p>
+
+   </body>
+
+   </html>
 
